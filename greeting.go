@@ -1,6 +1,7 @@
 package greeting
 
 // add tag v0.1.0
+// test go get github.com/suwenqiang/greeting@master update immediately
 import (
 	"errors"
 	"fmt"
