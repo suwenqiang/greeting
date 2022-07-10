@@ -5,8 +5,6 @@ import (
 	"fmt"
 	"math/rand"
 	"time"
-
-	"github.com/mitchellh/mapstructure"
 )
 
 func Hello(name string) (string, error) {
