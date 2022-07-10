@@ -15,7 +15,7 @@ func Hello(name string) (string, error) {
 	return message, nil
 }
 
-func Heollos(names []string) (map[string]string, error) {
+func Hellos(names []string) (map[string]string, error) {
 	messages := make(map[string]string)
 	for _, name := range names {
 		message, err := Hello(name)
