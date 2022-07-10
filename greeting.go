@@ -1,5 +1,6 @@
 package greeting
 
+// add tag v0.1.0
 import (
 	"errors"
 	"fmt"
